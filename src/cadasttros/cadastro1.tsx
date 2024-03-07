@@ -78,10 +78,10 @@ const styles = StyleSheet.create({
         flex: 1,
         justifyContent: 'center',
         alignItems: 'center',
-        backgroundColor: '#f2f2f2' // Alterei para um cinza claro
+        backgroundColor: '#64b5f6' // Azul claro para o container
     },
     card: {
-        backgroundColor: '#ffffff', // Fundo branco para o card
+        backgroundColor: '#ffffff', // Branco para o card
         width: 300,
         borderRadius: 20,
         padding: 20,
@@ -99,7 +99,7 @@ const styles = StyleSheet.create({
         textAlign: 'center'
     },
     input: {
-        backgroundColor: '#e0e0e0', // Fundo cinza para os inputs
+        backgroundColor: '#f0f0f0', // Fundo cinza claro para os inputs
         height: 40,
         marginBottom: 20,
         paddingHorizontal: 10,
@@ -108,7 +108,7 @@ const styles = StyleSheet.create({
         borderColor: '#bdbdbd' // Cor da borda cinza claro
     },
     button: {
-        backgroundColor: '#64b5f6', // Azul claro para o botão
+        backgroundColor: '#4caf50', // Verde para o botão
         height: 40,
         borderRadius: 8
     },
