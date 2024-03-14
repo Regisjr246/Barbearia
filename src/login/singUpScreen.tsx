@@ -38,7 +38,7 @@ console.log(dados);
                 
            
             
-               
+             
                
                 <TouchableOpacity style={styles.button}  onPress={()=>{login() }}>
                     <Text style={styles.buttonText} > Cadastrar</Text>
